@@ -8,7 +8,7 @@
         <title>Cadastro de Pessoas</title>
         @vite(['resources/css/app.css', 'resources/js/app.js'])
     </head>
-    <body class="min-h-screen bg-gray-50 text-gray-900 antialiased">
+    <body class="min-h-screen bg-[#232323] text-gray-200 antialiased">
         <div id="app"></div>
     </body>
 </html>

@@ -60,7 +60,7 @@ defineExpose({ carregar });
 </script>
 
 <template>
-    <div class="rounded-xl border border-gray-200 bg-white shadow-sm">
+    <div class="rounded-xl border border-gray-200 bg-white text-gray-900 shadow-s">
         <div class="flex flex-wrap items-center gap-3 border-b border-gray-200 p-4">
             <input
                 v-model="busca"

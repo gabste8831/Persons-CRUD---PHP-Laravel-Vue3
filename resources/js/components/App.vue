@@ -57,7 +57,7 @@ function aoSalvar() {
 </script>
 
 <template>
-    <div v-if="carregandoSessao" class="flex min-h-screen items-center justify-center text-gray-500">
+    <div v-if="carregandoSessao" class="flex min-h-screen items-center justify-center text-red-500">
         Carregando…
     </div>
 
